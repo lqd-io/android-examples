@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lqdaction">#fffc663f</color>
+    <color name="lqdaction2">#fff6837a</color>
+    <color name="lqdaction3">#ffffc1a8</color>
+    <color name="lqdark2">#ff003b4e</color>
+    <color name="lqdark3">#ff283643</color>
+    <color name="lqddark">#ff0c66a3</color>
+    <color name="lqdlight">#ff40a0d7</color>
+</resources>
