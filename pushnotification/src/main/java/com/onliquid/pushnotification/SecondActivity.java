@@ -9,7 +9,6 @@ import android.widget.TextView;
 
 import com.onliquid.pushnotification.support.Item;
 import com.onliquid.pushnotification.support.ListAdapter;
-import com.onliquid.pushnotification.support.TypeComparator;
 
 import java.util.ArrayList;
 

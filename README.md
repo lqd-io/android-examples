@@ -12,4 +12,4 @@
 
 ### Full Documentation
 
-https://onliquid.com/docs/android/1.0
+https://onliquid.com/docs/android/2.0

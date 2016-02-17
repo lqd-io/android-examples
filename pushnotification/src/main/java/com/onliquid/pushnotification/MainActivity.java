@@ -17,6 +17,7 @@ public class MainActivity extends Activity {
         super.onCreate(bundle);
         setContentView(R.layout.activity_main);
         lqd = Liquid.getInstance();
+        Liquid.getInstance().setupPushNotifications(this, "GCM_PROJECT_ID");
     }
 
     public void enterSecondActivity(String username) {
